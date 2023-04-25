@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\bin\Debug\IncreaseBrightness.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\bin\Debug\IncreaseBrightness.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\bin\Debug\PluginInterface.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\bin\Debug\PluginInterface.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\obj\Debug\IncreaseBrightness.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\obj\Debug\IncreaseBrightness.csproj.CopyComplete
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\obj\Debug\IncreaseBrightness.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\IncreaseBrightness\obj\Debug\IncreaseBrightness.pdb

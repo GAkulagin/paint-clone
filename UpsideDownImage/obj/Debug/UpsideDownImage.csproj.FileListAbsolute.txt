@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\bin\Debug\UpsideDownImage.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\bin\Debug\UpsideDownImage.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\bin\Debug\PluginInterface.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\bin\Debug\PluginInterface.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\obj\Debug\UpsideDownImage.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\obj\Debug\UpsideDownImage.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\obj\Debug\UpsideDownImage.csproj.CopyComplete
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\obj\Debug\UpsideDownImage.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\UpsideDownImage\obj\Debug\UpsideDownImage.pdb

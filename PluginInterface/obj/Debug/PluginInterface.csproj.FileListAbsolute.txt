@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\obj\Debug\PluginInterface.pdb
+G:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\bin\Debug\PluginInterface.dll
+G:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\bin\Debug\PluginInterface.pdb
+G:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+G:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+G:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\obj\Debug\PluginInterface.dll
+G:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\PluginInterface\obj\Debug\PluginInterface.pdb

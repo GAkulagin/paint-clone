@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\obj\Debug\BlackWhite.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\obj\Debug\BlackWhite.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\bin\Debug\BlackWhite.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\bin\Debug\BlackWhite.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\bin\Debug\PluginInterface.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\bin\Debug\PluginInterface.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\obj\Debug\BlackWhite.csproj.CopyComplete
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\obj\Debug\BlackWhite.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\BlackWhite\obj\Debug\BlackWhite.pdb

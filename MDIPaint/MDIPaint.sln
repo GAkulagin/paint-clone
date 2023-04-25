@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDIPaint", "MDIPaint.csproj", "{16441E59-76CF-4D4B-B70A-82597FD9C998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginInterface", "..\PluginInterface\PluginInterface.csproj", "{707B60DD-D71C-4046-8B8E-4FE65780AEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpsideDownImage", "..\UpsideDownImage\UpsideDownImage.csproj", "{143F8600-637E-4B8E-BD7A-6E57A956553A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftToRight", "..\LeftToRight\LeftToRight.csproj", "{B5C61104-3A2C-48DF-9ED2-B3535FA55856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackWhite", "..\BlackWhite\BlackWhite.csproj", "{DCA0BDB4-970B-4DC7-8AD3-EC745C971830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreaseBrightness", "..\IncreaseBrightness\IncreaseBrightness.csproj", "{F2618528-F711-4CDC-8067-2EF6DE28F575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16441E59-76CF-4D4B-B70A-82597FD9C998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16441E59-76CF-4D4B-B70A-82597FD9C998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16441E59-76CF-4D4B-B70A-82597FD9C998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16441E59-76CF-4D4B-B70A-82597FD9C998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707B60DD-D71C-4046-8B8E-4FE65780AEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707B60DD-D71C-4046-8B8E-4FE65780AEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707B60DD-D71C-4046-8B8E-4FE65780AEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707B60DD-D71C-4046-8B8E-4FE65780AEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143F8600-637E-4B8E-BD7A-6E57A956553A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143F8600-637E-4B8E-BD7A-6E57A956553A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143F8600-637E-4B8E-BD7A-6E57A956553A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143F8600-637E-4B8E-BD7A-6E57A956553A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C61104-3A2C-48DF-9ED2-B3535FA55856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C61104-3A2C-48DF-9ED2-B3535FA55856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C61104-3A2C-48DF-9ED2-B3535FA55856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C61104-3A2C-48DF-9ED2-B3535FA55856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA0BDB4-970B-4DC7-8AD3-EC745C971830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA0BDB4-970B-4DC7-8AD3-EC745C971830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA0BDB4-970B-4DC7-8AD3-EC745C971830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA0BDB4-970B-4DC7-8AD3-EC745C971830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2618528-F711-4CDC-8067-2EF6DE28F575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2618528-F711-4CDC-8067-2EF6DE28F575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2618528-F711-4CDC-8067-2EF6DE28F575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2618528-F711-4CDC-8067-2EF6DE28F575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D18D5107-09EE-40D5-8F4C-0741D6D478A2}
+	EndGlobalSection
+EndGlobal

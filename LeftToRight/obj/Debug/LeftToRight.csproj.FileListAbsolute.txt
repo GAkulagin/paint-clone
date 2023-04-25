@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\bin\Debug\LeftToRight.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\bin\Debug\LeftToRight.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\bin\Debug\PluginInterface.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\bin\Debug\PluginInterface.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\obj\Debug\LeftToRight.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\obj\Debug\LeftToRight.csproj.CopyComplete
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\obj\Debug\LeftToRight.dll
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\obj\Debug\LeftToRight.pdb
+C:\Users\User\Desktop\учеба\Конструирование ПО\Проект Paint\LeftToRight\obj\Debug\LeftToRight.csprojAssemblyReference.cache
